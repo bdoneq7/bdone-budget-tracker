@@ -1,7 +1,7 @@
 {
     "name": "Budget Tracker",
     "short_name": "Budget",
-    "description": "Allows user to budget their money",
+    "description": "Allows users to budget their money",
     "icons": [
       {
         "src": "icons/icon-144x144.png",
